@@ -32,9 +32,13 @@ Using reigning AL Cy Young winner, Tarik Skubal, as an example, we train our mod
   - Brier Score: Assesses the accuracy of predicted probabilities. A lower score indicates better probability calibration.
   - SHAP Summary Plot: Provides interpretability by showing how each feature influences the model’s predictions, helping us understand which factors contribute most to a successful pitch.
 
+
 Log Loss: 0.49453705051484415
+
 ROC-AUC: 0.7867132867132867
+
 Brier Score: 0.15919642128194855
+
 <img src="images/SHAP.png" alt="SHAP Summary Plot" width="500">
 
 Note that different pitchers
