@@ -1,9 +1,9 @@
 # Optimal Pitch Prediction Model
 
-## A Machine Learning Approach to Baseball
+### A Machine Learning Approach to Baseball
 
-### Nolan Lo
-### January 26, 2025 * 5 min read
+##### Nolan Lo
+##### January 26, 2025
 
 In pitching, success is often measured by velocity, accuracy, and spin rate, but the true battle between a pitcher and batter goes far beyond raw metrics. The best pitchers don’t just throw—they outthink their opponents, anticipating what the hitter expects and using deception to stay one step ahead. This mental chess match, often called the game within the game, is what separates good pitchers from great ones.
 
