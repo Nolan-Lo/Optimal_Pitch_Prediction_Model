@@ -21,6 +21,9 @@ The model is trained on Statcast data, which tracks every pitch thrown throughou
   - Target variable: A boolean indicating whether the pitch resulted in a WHIFF or a called strike.
 After performing feature engineering and data preprocessing, the dataset is ready for model training and evaluation.
 
+* For reference, below are the different zones used by baseball savant and statcast (Catcher's POV).
+![Zone image](images/Zone.png)
+
 ## Model Training and Evaluation
 Using reigning AL Cy Young winner, Tarik Skubal, as an example, we train our model and assess its performance using the following metrics:
   - Log Loss: Measures how well the model predicts probabilities. A lower log loss indicates that the predicted probabilities are well-calibrated and close to the true values.
