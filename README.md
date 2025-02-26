@@ -22,7 +22,8 @@ The model is trained on Statcast data, which tracks every pitch thrown throughou
 After performing feature engineering and data preprocessing, the dataset is ready for model training and evaluation.
 
 * For reference, below are the different zones used by baseball savant and statcast (Catcher's POV).
-![Zone image](images/Zone.png)
+<img src="images/Zone.png" alt="SHAP Summary Plot" width="500">
+
 
 ## Model Training and Evaluation
 Using reigning AL Cy Young winner, Tarik Skubal, as an example, we train our model and assess its performance using the following metrics:
@@ -31,4 +32,5 @@ Using reigning AL Cy Young winner, Tarik Skubal, as an example, we train our mod
   - Brier Score: Assesses the accuracy of predicted probabilities. A lower score indicates better probability calibration.
   - SHAP Summary Plot: Provides interpretability by showing how each feature influences the model’s predictions, helping us understand which factors contribute most to a successful pitch.
 
-![SHAP Summary Plot](images/SHAP.png)
+<img src="images/SHAP.png" alt="SHAP Summary Plot" width="500">
+
