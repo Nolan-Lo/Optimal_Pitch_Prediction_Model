@@ -22,7 +22,7 @@ The model is trained on Statcast data, which tracks every pitch thrown throughou
 After performing feature engineering and data preprocessing, the dataset is ready for model training and evaluation.
 
 * For reference, below are the different zones used by baseball savant and statcast (Catcher's POV).
-<img src="images/Zone.png" alt="SHAP Summary Plot" width="500">
+<img src="images/Zone.png" alt="SHAP Summary Plot" width="400">
 
 
 ## Model Training and Evaluation
