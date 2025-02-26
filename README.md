@@ -57,7 +57,7 @@ Continuing with the Dylan Cease (vs. left-handed hitters) as an example, we use 
 
 ## Recommended Pitch Selection (Ranked by WHIFF / Called Strike Probability)
 
-<img src="images/Pitches.png" alt="SHAP Summary Plot" width="500">
+<img src="images/Pitches.png" alt="SHAP Summary Plot" width="300">
 
 ## Potential Improvements
 While the model performs well, there are several areas where further improvements can be made:
